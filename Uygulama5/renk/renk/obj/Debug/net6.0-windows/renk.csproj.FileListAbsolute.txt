@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\renk\renk\bin\Debug\net6.0-windows\renk.exe
+C:\Users\User\source\repos\renk\renk\bin\Debug\net6.0-windows\renk.deps.json
+C:\Users\User\source\repos\renk\renk\bin\Debug\net6.0-windows\renk.runtimeconfig.json
+C:\Users\User\source\repos\renk\renk\bin\Debug\net6.0-windows\renk.dll
+C:\Users\User\source\repos\renk\renk\bin\Debug\net6.0-windows\renk.pdb
+C:\Users\User\source\repos\renk\renk\obj\Debug\net6.0-windows\renk.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\renk\renk\obj\Debug\net6.0-windows\renk.Form1.resources
+C:\Users\User\source\repos\renk\renk\obj\Debug\net6.0-windows\renk.csproj.GenerateResource.cache
+C:\Users\User\source\repos\renk\renk\obj\Debug\net6.0-windows\renk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\renk\renk\obj\Debug\net6.0-windows\renk.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\renk\renk\obj\Debug\net6.0-windows\renk.AssemblyInfo.cs
+C:\Users\User\source\repos\renk\renk\obj\Debug\net6.0-windows\renk.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\renk\renk\obj\Debug\net6.0-windows\renk.dll
+C:\Users\User\source\repos\renk\renk\obj\Debug\net6.0-windows\refint\renk.dll
+C:\Users\User\source\repos\renk\renk\obj\Debug\net6.0-windows\renk.pdb
+C:\Users\User\source\repos\renk\renk\obj\Debug\net6.0-windows\renk.genruntimeconfig.cache
+C:\Users\User\source\repos\renk\renk\obj\Debug\net6.0-windows\ref\renk.dll

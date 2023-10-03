@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\manav\manav\bin\Debug\net6.0-windows\manav.exe
+C:\Users\User\source\repos\manav\manav\bin\Debug\net6.0-windows\manav.deps.json
+C:\Users\User\source\repos\manav\manav\bin\Debug\net6.0-windows\manav.runtimeconfig.json
+C:\Users\User\source\repos\manav\manav\bin\Debug\net6.0-windows\manav.dll
+C:\Users\User\source\repos\manav\manav\bin\Debug\net6.0-windows\manav.pdb
+C:\Users\User\source\repos\manav\manav\obj\Debug\net6.0-windows\manav.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\manav\manav\obj\Debug\net6.0-windows\manav.Form1.resources
+C:\Users\User\source\repos\manav\manav\obj\Debug\net6.0-windows\manav.csproj.GenerateResource.cache
+C:\Users\User\source\repos\manav\manav\obj\Debug\net6.0-windows\manav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\manav\manav\obj\Debug\net6.0-windows\manav.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\manav\manav\obj\Debug\net6.0-windows\manav.AssemblyInfo.cs
+C:\Users\User\source\repos\manav\manav\obj\Debug\net6.0-windows\manav.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\manav\manav\obj\Debug\net6.0-windows\manav.dll
+C:\Users\User\source\repos\manav\manav\obj\Debug\net6.0-windows\refint\manav.dll
+C:\Users\User\source\repos\manav\manav\obj\Debug\net6.0-windows\manav.pdb
+C:\Users\User\source\repos\manav\manav\obj\Debug\net6.0-windows\manav.genruntimeconfig.cache
+C:\Users\User\source\repos\manav\manav\obj\Debug\net6.0-windows\ref\manav.dll
