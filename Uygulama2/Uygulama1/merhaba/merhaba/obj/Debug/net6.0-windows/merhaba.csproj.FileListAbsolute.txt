@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\merhaba\merhaba\bin\Debug\net6.0-windows\merhaba.exe
+C:\Users\User\source\repos\merhaba\merhaba\bin\Debug\net6.0-windows\merhaba.deps.json
+C:\Users\User\source\repos\merhaba\merhaba\bin\Debug\net6.0-windows\merhaba.runtimeconfig.json
+C:\Users\User\source\repos\merhaba\merhaba\bin\Debug\net6.0-windows\merhaba.dll
+C:\Users\User\source\repos\merhaba\merhaba\bin\Debug\net6.0-windows\merhaba.pdb
+C:\Users\User\source\repos\merhaba\merhaba\obj\Debug\net6.0-windows\merhaba.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\merhaba\merhaba\obj\Debug\net6.0-windows\merhaba.Form1.resources
+C:\Users\User\source\repos\merhaba\merhaba\obj\Debug\net6.0-windows\merhaba.csproj.GenerateResource.cache
+C:\Users\User\source\repos\merhaba\merhaba\obj\Debug\net6.0-windows\merhaba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\merhaba\merhaba\obj\Debug\net6.0-windows\merhaba.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\merhaba\merhaba\obj\Debug\net6.0-windows\merhaba.AssemblyInfo.cs
+C:\Users\User\source\repos\merhaba\merhaba\obj\Debug\net6.0-windows\merhaba.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\merhaba\merhaba\obj\Debug\net6.0-windows\merhaba.dll
+C:\Users\User\source\repos\merhaba\merhaba\obj\Debug\net6.0-windows\refint\merhaba.dll
+C:\Users\User\source\repos\merhaba\merhaba\obj\Debug\net6.0-windows\merhaba.pdb
+C:\Users\User\source\repos\merhaba\merhaba\obj\Debug\net6.0-windows\merhaba.genruntimeconfig.cache
+C:\Users\User\source\repos\merhaba\merhaba\obj\Debug\net6.0-windows\ref\merhaba.dll
